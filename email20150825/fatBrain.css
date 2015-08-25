@@ -84,4 +84,8 @@ td[id="eventContainer"], td[id="ruleContainer"], td[id="productContainer"] {
     
 /*////// GENERAL STYLES //////*/
     img[class="image"]{width:154px !important; height:194px !important;}
+    
+    table[class="footerCopy"] {
+        width: 480px !important;
+    }
 }
